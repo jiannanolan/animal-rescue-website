@@ -40,10 +40,6 @@ nav a {
   border: 3px solid #363C36;
 }
 
-.about {
-  background-color: #FAF7F5;
-}
-
 .sponsor h3 {
   background-color: #6F786F;
   color: #fff;
@@ -84,4 +80,18 @@ nav a {
 .time {
   color: #fff;
   border: none;
+}
+
+caption {
+  color: #fff;
+}
+
+footer {
+  background-color: #363C36;
+  color: #fff;
+}
+
+.cards {
+  background-color: #6F786F;
+  color: #fff;
 }
