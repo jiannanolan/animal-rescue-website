@@ -1,11 +1,60 @@
+html {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
 .banner {
   background:
-    url("../images/gray.jpg") bottom center;
+    linear-gradient(to bottom, rgba(0, 0, 0, .2) 60%, rgba(165, 165, 165, .2)),
+    url("../images/index-banner.jpg") bottom center;
   background-size: cover;
   color: #fff;
 }
 
 .masthead {
-  background-color: #5E8355;
+  background-color: #486A3E;
+}
+
+h1 a {
   color: #fff;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: 'Averia Sans Libre', cursive;
+}
+
+h2 {
+  letter-spacing: 2px;
+}
+
+nav a {
+  color: #fff;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.call-btn {
+  background-color: #486A3E;
+  border: 3px solid #486A3E;
+}
+
+.about {
+  background-color: #DDDDDD;
+}
+
+.sponsor {
+  background-color: #FAF7F5;
+}
+
+.sponsor h3 {
+  background-color: #486A3E;
+  color: #fff;
+}
+
+.sponsor-btn {
+  text-align: center;
+  background-color: #E86B4D;
+  border: 3px solid #E86B4D;
+}
+
+.about-title {
+  background-color: #E86B4D;
 }
