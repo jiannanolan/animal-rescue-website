@@ -11,7 +11,7 @@ html {
 }
 
 .masthead {
-  background-color: #486A3E;
+  background-color: #363C36;
 }
 
 h1 a {
@@ -36,8 +36,8 @@ nav a {
 }
 
 .call-btn {
-  background-color: #486A3E;
-  border: 3px solid #486A3E;
+  background-color: #363C36;
+  border: 3px solid #363C36;
 }
 
 .about {
@@ -64,10 +64,24 @@ nav a {
   color: #fff;
 }
 
-.sponsor-border {
+.border {
   border: 3px solid #fff;
 }
 
 .hours {
-  background-color: orange;
+  background-color: #2F515D;
+}
+
+.hours h3 {
+  color: #fff;
+}
+
+.date {
+  color: #fff;
+  border: none;
+}
+
+.time {
+  color: #fff;
+  border: none;
 }
