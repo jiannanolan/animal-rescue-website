@@ -44,26 +44,30 @@ nav a {
   background-color: #FAF7F5;
 }
 
-.sponsor {
-  background-color: #FAF7F5;
-}
-
 .sponsor h3 {
-  background-color: #486A3E;
+  background-color: #6F786F;
   color: #fff;
 }
 
 .sponsor-btn {
   text-align: center;
-  background-color: #E86B4D;
-  border: 3px solid #E86B4D;
+  background-color: #363C36;
+  border: 3px solid #363C36;
 }
 
 .about-title {
-  background-color: #E86B4D;
+  background-color: #AA8D36;
 }
 
+.sponsor {
+  background-color: #6F786F;
+  color: #fff;
+}
 
-.turtle-title {
-  background-color: #486A3E;
+.sponsor-border {
+  border: 3px solid #fff;
+}
+
+.hours {
+  background-color: orange;
 }
