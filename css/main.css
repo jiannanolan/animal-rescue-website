@@ -1,5 +1,5 @@
 html {
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: "Noto Sans TC", sans-serif;
 }
 
 .banner {
@@ -11,21 +11,21 @@ html {
 }
 
 .masthead {
-  background-color: #363C36;
+  background-color: #363c36;
 }
 
-h1 a {
+.title {
   color: #fff;
   list-style-type: none;
   text-decoration: none;
-  font-family: 'Averia Sans Libre', cursive;
+  font-family: "Averia Sans Libre", cursive;
 }
 
-h2 {
+.message {
   letter-spacing: 2px;
 }
 
-h3 {
+h2 {
   color: #fff;
 }
 
@@ -36,27 +36,27 @@ nav a {
 }
 
 .call-btn {
-  background-color: #363C36;
-  border: 3px solid #363C36;
+  background-color: #363c36;
+  border: 3px solid #363c36;
 }
 
 .sponsor h3 {
-  background-color: #6F786F;
+  background-color: #6f786f;
   color: #fff;
 }
 
 .sponsor-btn {
   text-align: center;
-  background-color: #363C36;
-  border: 3px solid #363C36;
+  background-color: #363c36;
+  border: 3px solid #363c36;
 }
 
 .about-title {
-  background-color: #AA8D36;
+  background-color: #aa8d36;
 }
 
 .sponsor {
-  background-color: #6F786F;
+  background-color: #6f786f;
   color: #fff;
 }
 
@@ -65,7 +65,7 @@ nav a {
 }
 
 .hours {
-  background-color: #2F515D;
+  background-color: #2f515d;
 }
 
 .hours h3 {
@@ -87,11 +87,11 @@ caption {
 }
 
 footer {
-  background-color: #363C36;
+  background-color: #363c36;
   color: #fff;
 }
 
 .cards {
-  background-color: #6F786F;
+  background-color: #6f786f;
   color: #fff;
 }
