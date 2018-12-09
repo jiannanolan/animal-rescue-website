@@ -25,6 +25,10 @@ h2 {
   letter-spacing: 2px;
 }
 
+h3 {
+  color: #fff;
+}
+
 nav a {
   color: #fff;
   list-style-type: none;
@@ -37,7 +41,7 @@ nav a {
 }
 
 .about {
-  background-color: #DDDDDD;
+  background-color: #FAF7F5;
 }
 
 .sponsor {
