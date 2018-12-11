@@ -36,8 +36,8 @@ nav a {
 }
 
 .call-btn {
-  background-color: #363c36;
-  border: 3px solid #363c36;
+  background-color: #aa8d36;
+  border: 3px solid #aa8d36;
 }
 
 .sponsor h3 {
@@ -91,7 +91,46 @@ footer {
   color: #fff;
 }
 
-.cards {
-  background-color: #6f786f;
+.all-cards {
+  background-color: #fff;
   color: #fff;
+}
+
+.card {
+  background-color: #eaedea;
+  color: #363c36;
+}
+
+.turtle-name {
+  color: #363c36;
+}
+
+fieldset {
+  border: 0;
+}
+
+a:hover {
+  background-color: #fff;
+  color: #363c36;
+}
+
+.donations {
+  background-color: #2f515d;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: #363c36;
+  border: 3px solid #fff;
+}
+
+.bg {
+  background-color: #eaedea;
+}
+
+.btn-donate:hover {
+  background-color: #aa8d36;
+  color: #fff;
+  border: 3px solid #aa8d36;
 }
